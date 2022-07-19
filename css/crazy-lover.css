@@ -948,7 +948,7 @@ header .mega-menu .links li a i {
 
 .services .box .info::before {
     position: absolute;
-    /* content: "0"counter(services); */
+    content: "0" counter(services);
     background-color: var(--main-color);
     color: white;
     left: 0;
