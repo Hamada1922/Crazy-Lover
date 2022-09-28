@@ -1189,6 +1189,12 @@ header .mega-menu .links li a i {
     .events .content .counter .unit {
         width: 70px;
     }
+
+    .events .content .counter {
+        flex-wrap: wrap;
+        max-width: 100%;
+    }
+
 }
 
 .events .content .counter .unit:hover {
